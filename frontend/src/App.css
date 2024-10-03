@@ -1,0 +1,33 @@
+.app-container {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.main-title {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.input-field {
+  margin-bottom: 20px;
+}
+
+.button-group {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.news-section, .references-section {
+  margin-top: 30px;
+}
+
+.editor-container {
+  margin-top: 20px;
+}
+
+button {
+  cursor: pointer;
+}
